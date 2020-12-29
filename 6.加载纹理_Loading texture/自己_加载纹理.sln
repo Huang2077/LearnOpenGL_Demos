@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自己_加载纹理", "自己_加载纹理\自己_加载纹理.vcxproj", "{D84065A8-28B5-48F5-89F2-4E2A56C776B7}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84065A8-28B5-48F5-89F2-4E2A56C776B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D84065A8-28B5-48F5-89F2-4E2A56C776B7}.Debug|Win32.Build.0 = Debug|Win32
+		{D84065A8-28B5-48F5-89F2-4E2A56C776B7}.Release|Win32.ActiveCfg = Release|Win32
+		{D84065A8-28B5-48F5-89F2-4E2A56C776B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

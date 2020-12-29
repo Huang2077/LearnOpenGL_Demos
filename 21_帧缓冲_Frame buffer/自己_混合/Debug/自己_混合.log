@@ -1,0 +1,12 @@
+﻿  帧缓冲-镜面效果.cpp
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(233): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(421): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(422): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(426): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(427): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(429): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(430): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\高级opengl\自己_帧缓冲\自己_混合\帧缓冲-镜面效果.cpp(437): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  自己_混合.vcxproj -> G:\计算机系\计算机图形学\OpenGl\高级OpenGL\自己_帧缓冲\Debug\自己_混合.exe
+  自己_混合.vcxproj -> G:\计算机系\计算机图形学\OpenGl\高级OpenGL\自己_帧缓冲\Debug\自己_混合.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  光照环境.cpp
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(194): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(323): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(324): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(328): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(329): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(331): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(332): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+g:\计算机系\计算机图形学\opengl\自己_聚光灯\自己_光照环境\光照环境.cpp(339): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  自己_光照环境.vcxproj -> G:\计算机系\计算机图形学\OpenGl\自己_聚光灯\Debug\自己_光照环境.exe
+  自己_光照环境.vcxproj -> G:\计算机系\计算机图形学\OpenGl\自己_聚光灯\Debug\自己_光照环境.pdb (Full PDB)

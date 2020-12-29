@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自己_多个顶点属性", "自己_多个顶点属性\自己_多个顶点属性.vcxproj", "{DBFD7582-63FF-4AD3-ABDC-80331CCB5C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFD7582-63FF-4AD3-ABDC-80331CCB5C5A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBFD7582-63FF-4AD3-ABDC-80331CCB5C5A}.Debug|Win32.Build.0 = Debug|Win32
+		{DBFD7582-63FF-4AD3-ABDC-80331CCB5C5A}.Release|Win32.ActiveCfg = Release|Win32
+		{DBFD7582-63FF-4AD3-ABDC-80331CCB5C5A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
