@@ -4,7 +4,7 @@ This is a demo collection of OpnenGL//这是本人在学习OpenGl过程中制作
 [LearnOpenGl CN](https://learnopengl-cn.github.io/)
 # Samples
 ## Blending
-
+(https://github.com/Huang2077/LearnOpenGL_Huang/blob/main/Samples/blending.PNG)
 ## Explosion effect
 
 ## Point light
@@ -13,4 +13,4 @@ This is a demo collection of OpnenGL//这是本人在学习OpenGl过程中制作
 
 ## Loading the texture
 
-## uniform buffer
+## Uniform buffer
